@@ -1,4 +1,4 @@
-# DeepLearning — Basics of Deep Learning
+# Basics of Deep Learning
 
 A tiny, hands-on collection of Jupyter Notebooks covering basic deep learning concepts.
 
